@@ -6,7 +6,7 @@ import docker
 import traceback
 
 # Configurações
-subscription_id = '22c9789f-d4e7-4802-a160-8b39e1bb2a17'  # Substitua pelo seu ID de assinatura
+subscription_id = 'ID Azure'  # Substitua pelo seu ID de assinatura
 resource_group = 'myResourceGroup'  # Nome do grupo de recursos
 acr_name = 'automacaosite'  # Nome do Azure Container Registry
 dockerhub_image = 'anderson0920/flask-library-app:latest'  # Imagem no Docker Hub
